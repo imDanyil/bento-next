@@ -12,7 +12,7 @@ import { Config } from './src/types/config';
 export const config: Config = {
   // General
   name: 'Danyil',
-  openInNewTab: true,
+  openInNewTab: false,
   title: 'Bento',
 
   // Clock
@@ -61,7 +61,7 @@ export const config: Config = {
   greetingNight: 'Sweet dreams,',
 
   // Layout
-  layout: 'bento', // 'bento', 'lists', 'buttons'
+  layout: 'buttons', // 'bento', 'lists', 'buttons'
 
   // Weather
   weatherKey: import.meta.env.VITE_API_KEY, // Set your OpenWeatherMap key in .env - Move the included .env.example to .env
@@ -70,8 +70,8 @@ export const config: Config = {
   language: 'en', // More languages in https://openweathermap.org/current#multi
 
   trackLocation: true, // Request location from the browser. If false, or location is denied, use the coordinates below.
-  defaultLatitude: '37.775',
-  defaultLongitude: '-122.419',
+  defaultLatitude: '48.504238',
+  defaultLongitude: '32.230704',
 
   // Automatic theme switching:
   // "system" - Switches based on OS color preference
