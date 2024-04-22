@@ -54,9 +54,9 @@
 
 
 
-  --macchiato-rosewater-h: 10;
-  --macchiato-rosewater-s: 58;
-  --macchiato-rosewater-l: 90;
+  --macchiato-rosewater-h: 220;
+  --macchiato-rosewater-s: 83;
+  --macchiato-rosewater-l: 75;
   --macchiato-rosewater: hsl(var(--macchiato-rosewater-h), calc(var(--macchiato-rosewater-s) * 1%), calc((var(--macchiato-rosewater-l) + 0) * 1%));
 
   --macchiato-text-h: 227;
