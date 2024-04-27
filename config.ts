@@ -61,7 +61,7 @@ export const config: Config = {
   greetingNight: 'Sweet dreams,',
 
   // Layout
-  layout: 'bento', // 'bento', 'lists', 'buttons'
+  layout: 'buttons', // 'bento', 'lists', 'buttons'
 
   // Weather
   weatherKey: import.meta.env.VITE_API_KEY, // Set your OpenWeatherMap key in .env - Move the included .env.example to .env
@@ -78,7 +78,7 @@ export const config: Config = {
   // "location" - Switches based on local sunrise/sunset (requires OpenWeatherMap API key)
   // "preset" - Switches based on set hours
   // "none" - No automatic switching
-  autoTheme: 'system',
+  autoTheme: 'none',
 
   // If autoTheme is set to "preset", set the hours below.
   darkModeOnTime: '18:30',
@@ -161,7 +161,7 @@ export const config: Config = {
         url: 'https://hashnode.com/',
       },
       {
-        name: 'Figma',
+        name: 'ChatGPT',
         icon: 'fab-figma',
         url: 'https://figma.com/',
       },
