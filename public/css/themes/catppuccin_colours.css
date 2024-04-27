@@ -1,8 +1,8 @@
 :root {
 
-  --latte-rosewater-h: 11;
-  --latte-rosewater-s: 59;
-  --latte-rosewater-l: 67;
+  --latte-rosewater-h: 220;
+  --latte-rosewater-s: 83;
+  --latte-rosewater-l: 75;
   --latte-rosewater: hsl(var(--latte-rosewater-h), calc(var(--latte-rosewater-s) * 1%), calc((var(--latte-rosewater-l) + 0) * 1%));
 
   --latte-text-h: 234;
@@ -27,9 +27,9 @@
 
 
 
-  --frappe-rosewater-h: 10;
-  --frappe-rosewater-s: 57;
-  --frappe-rosewater-l: 88;
+  --frappe-rosewater-h: 220;
+  --frappe-rosewater-s: 83;
+  --frappe-rosewater-l: 75;
   --frappe-rosewater: hsl(var(--frappe-rosewater-h), calc(var(--frappe-rosewater-s) * 1%), calc((var(--frappe-rosewater-l) + 0) * 1%));
 
   --frappe-text-h: 227;
@@ -81,9 +81,9 @@
 
 
 
-  --mocha-rosewater-h: 10;
-  --mocha-rosewater-s: 56;
-  --mocha-rosewater-l: 91;
+  --mocha-rosewater-h: 220;
+  --mocha-rosewater-s: 83;
+  --mocha-rosewater-l: 75;
   --mocha-rosewater: hsl(var(--mocha-rosewater-h), calc(var(--mocha-rosewater-s) * 1%), calc((var(--mocha-rosewater-l) + 0) * 1%));
 
   --mocha-text-h: 226;
