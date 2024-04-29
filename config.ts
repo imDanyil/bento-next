@@ -141,9 +141,9 @@ export const config: Config = {
         url: 'https://open.spotify.com',
       },
       {
-        name: 'twitter',
-        icon: 'fab-twitter',
-        url: 'https://twitter.com/',
+        name: 'drive',
+        icon: 'fa-brands fa-google-drive',
+        url: 'https://drive.google.com/drive/home',
       },
       {
         name: 'bot',
