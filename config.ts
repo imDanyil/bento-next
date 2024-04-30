@@ -134,16 +134,16 @@ export const config: Config = {
     ],
     // Second buttons group
     // You muse use the 'buttons' layout to use this group.
-    [
+    [ 
+      {
+        name: 'Reddit',
+        icon: 'fab-reddit',
+        url: 'https://reddit.com',
+      },
       {
         name: 'Music',
         icon: 'fab-spotify',
         url: 'https://open.spotify.com',
-      },
-      {
-        name: 'drive',
-        icon: 'fa-brands fa-google-drive',
-        url: 'https://drive.google.com/drive/home',
       },
       {
         name: 'DeviantArt',
@@ -151,9 +151,9 @@ export const config: Config = {
         url: 'https://www.deviantart.com/dan-yil',
       },
       {
-        name: 'Reddit',
-        icon: 'fab-reddit',
-        url: 'https://reddit.com',
+        name: 'drive',
+        icon: 'fa-brands fa-google-drive',
+        url: 'https://drive.google.com/drive/home',
       },
       {
         name: 'ChatGPT',
