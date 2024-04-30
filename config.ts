@@ -112,9 +112,9 @@ export const config: Config = {
         url: 'https://mail.google.com/',
       },
       {
-        name: 'Todoist',
-        icon: 'list-ol',
-        url: 'https://todoist.com',
+        name: 'bot',
+        icon: 'fab-discord',
+        url: 'https://discord.com/app',
       },
       {
         name: 'Calendar',
@@ -146,9 +146,9 @@ export const config: Config = {
         url: 'https://drive.google.com/drive/home',
       },
       {
-        name: 'bot',
-        icon: 'fab-discord',
-        url: 'https://discord.com/app',
+        name: 'DeviantArt',
+        icon: 'fa-brands fa-deviantart',
+        url: 'https://www.deviantart.com/dan-yil',
       },
       {
         name: 'Deepl',
