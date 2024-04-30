@@ -107,9 +107,9 @@ export const config: Config = {
         url: 'https://github.com/', // provide a link to the page.
       },
       {
-        name: 'Mail',
-        icon: 'envelope',
-        url: 'https://mail.google.com/',
+        name: 'Telegram',
+        icon: 'fa-brands fa-telegram',
+        url: 'https://web.telegram.org/a/',
       },
       {
         name: 'bot',
@@ -117,9 +117,9 @@ export const config: Config = {
         url: 'https://discord.com/app',
       },
       {
-        name: 'Calendar',
-        icon: 'calendar',
-        url: 'https://calendar.google.com/calendar/r',
+        name: 'Mail',
+        icon: 'envelope',
+        url: 'https://mail.google.com/',
       },
       {
         name: 'Deepl',
