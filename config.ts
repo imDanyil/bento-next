@@ -156,15 +156,15 @@ export const config: Config = {
         url: 'https://www.deepl.com/uk/translator',
       },
       {
-        name: 'TikTok',
-        icon: 'fa-brands fa-tiktok',
-        url: 'https://www.tiktok.com/@motyvuisya',
-      },
-      {
         name: 'ChatGPT',
         icon: 'fa-solid fa-comments',
         url: 'https://chat.openai.com/',
       },
+      {
+        name: 'TikTok',
+        icon: 'fa-brands fa-tiktok',
+        url: 'https://www.tiktok.com/@motyvuisya',
+      }
     ],
   ],
 
