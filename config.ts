@@ -122,9 +122,9 @@ export const config: Config = {
         url: 'https://calendar.google.com/calendar/r',
       },
       {
-        name: 'Reddit',
-        icon: 'fab-reddit',
-        url: 'https://reddit.com',
+        name: 'Deepl',
+        icon: 'fa-solid fa-language',
+        url: 'https://www.deepl.com/uk/translator',
       },
       {
         name: 'YouTube',
@@ -151,9 +151,9 @@ export const config: Config = {
         url: 'https://www.deviantart.com/dan-yil',
       },
       {
-        name: 'Deepl',
-        icon: 'fa-solid fa-language',
-        url: 'https://www.deepl.com/uk/translator',
+        name: 'Reddit',
+        icon: 'fab-reddit',
+        url: 'https://reddit.com',
       },
       {
         name: 'ChatGPT',
