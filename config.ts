@@ -129,7 +129,7 @@ export const config: Config = {
       {
         name: 'YouTube',
         icon: 'fab-youtube',
-        url: 'https://www.youtube.com/@motyvuisya',
+        url: 'https://www.youtube.com/',
       },
     ],
     // Second buttons group
@@ -163,7 +163,7 @@ export const config: Config = {
       {
         name: 'TikTok',
         icon: 'fa-brands fa-tiktok',
-        url: 'https://www.tiktok.com/@motyvuisya',
+        url: 'https://www.tiktok.com/',
       }
     ],
   ],
