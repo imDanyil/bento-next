@@ -13,7 +13,7 @@ export const config: Config = {
   // General
   name: 'Danyil',
   openInNewTab: false,
-  title: 'Bento',
+  title: 'New Tab',
 
   // Clock
   twelveHourFormat: false,
@@ -24,11 +24,11 @@ export const config: Config = {
     // 'google' or 'local'
     source: 'google',
     // Font name, e.g. 'Roboto' (case sensitive)
-    name: 'Overpass',
+    name: 'Nunito Sans',
   },
 
   // Theme
-  theme: 'catppuccin-macchiato',
+  theme: 'catppuccin-mocha',
 
   // Place a background image in ./src/assets/images/ and provide the file name.
   // Alternatively, provide a URL to an image. If the page is served over https, you may have issues loading images from insecure origins.
@@ -70,8 +70,8 @@ export const config: Config = {
   language: 'en', // More languages in https://openweathermap.org/current#multi
 
   trackLocation: true, // Request location from the browser. If false, or location is denied, use the coordinates below.
-  defaultLatitude: '48.504238',
-  defaultLongitude: '32.230704',
+  defaultLatitude: '50.450001',
+  defaultLongitude: '30.523333',
 
   // Automatic theme switching:
   // "system" - Switches based on OS color preference
@@ -104,7 +104,7 @@ export const config: Config = {
       {
         name: 'Github', // set the name of the card
         icon: 'fab-github', // provide a FontAwesome icon name. Regular icons (fa-) don't require a prefix, while FA-Brands icons must be prefixed with "fab-"
-        url: 'https://github.com/', // provide a link to the page.
+        url: 'https://github.com/imDanyil', // provide a link to the page.
       },
       {
         name: 'Telegram',
@@ -158,7 +158,7 @@ export const config: Config = {
       {
         name: 'ChatGPT',
         icon: 'fa-solid fa-comments',
-        url: 'https://chat.openai.com/',
+        url: 'https://chatgpt.com/',
       },
       {
         name: 'TikTok',
