@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 :root {
-  --custom-font: 'Overpass, sans-serif';
+  --custom-font: 'Nunito Sans, Regular';
 }
 
 body {
